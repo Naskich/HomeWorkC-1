@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allocate array", "Allocate array.csproj", "{FF81163E-477D-406B-9537-496727A9C5D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareArrays", "..\CompareArrays\CompareArrays.csproj", "{D32FB69D-2AC0-4127-9F04-C1008929E54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparechararrays", "..\Comparechararrays\Comparechararrays.csproj", "{99AAAC2C-8374-47AC-B800-DABDC39FD19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximalsequence", "..\Maximalsequence\Maximalsequence.csproj", "{CD604597-A9BC-4772-B29E-9DCD1A5EE406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF81163E-477D-406B-9537-496727A9C5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF81163E-477D-406B-9537-496727A9C5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF81163E-477D-406B-9537-496727A9C5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF81163E-477D-406B-9537-496727A9C5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32FB69D-2AC0-4127-9F04-C1008929E54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32FB69D-2AC0-4127-9F04-C1008929E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32FB69D-2AC0-4127-9F04-C1008929E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32FB69D-2AC0-4127-9F04-C1008929E54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AAAC2C-8374-47AC-B800-DABDC39FD19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AAAC2C-8374-47AC-B800-DABDC39FD19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AAAC2C-8374-47AC-B800-DABDC39FD19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AAAC2C-8374-47AC-B800-DABDC39FD19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD604597-A9BC-4772-B29E-9DCD1A5EE406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD604597-A9BC-4772-B29E-9DCD1A5EE406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD604597-A9BC-4772-B29E-9DCD1A5EE406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD604597-A9BC-4772-B29E-9DCD1A5EE406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
